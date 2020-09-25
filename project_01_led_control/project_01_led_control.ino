@@ -1,5 +1,5 @@
 #define LED_PIN     8
-#define LED_TIMEOUT 500
+#define LED_TIMEOUT 5000
 
 void setup() {
   pinMode(LED_PIN, OUTPUT);
